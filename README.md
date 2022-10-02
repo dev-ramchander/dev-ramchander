@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif)](dev-ramchander) -->
 <h1 align="center">Hi 👋, I'm Ram</h1>
-<h3 align="center">Think Twice <code> Once :)</h3>
+<h3 align="center">Think Twice < code > Once :)</h3>
 <img align="right" alt="Coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif" >
 
 - 🌱 I’m currently learning **React, Next.Js**
